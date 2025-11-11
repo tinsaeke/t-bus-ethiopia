@@ -1,0 +1,12 @@
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Local configuration files - DO NOT COMMIT SENSITIVE DATA
+# We will create a database.php.example file instead.
+config/database.php
+
+# Log files
+*.log
+logs/

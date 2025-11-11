@@ -595,10 +595,10 @@ $pageTitle = "T BUS - Ethiopia's Leading Online Bus Booking Platform | Book Bus 
                     </h5>
                     <p class="text-light mb-4">Ethiopia's leading online bus ticketing platform, connecting travelers with trusted bus companies nationwide.</p>
                     <div class="d-flex gap-3">
-                        <a href="#" class="text-light fs-5"><i class="ri-facebook-fill"></i></a>
-                        <a href="#" class="text-light fs-5"><i class="ri-twitter-fill"></i></a>
-                        <a href="#" class="text-light fs-5"><i class="ri-instagram-line"></i></a>
-                        <a href="#" class="text-light fs-5"><i class="ri-linkedin-fill"></i></a>
+                        <a href="https://www.facebook.com/" class="text-light fs-5"><i class="ri-facebook-fill"></i></a>
+                        <a href="https://x.com/" class="text-light fs-5"><i class="ri-twitter-fill"></i></a>
+                        <a href="https://www.instagram.com/" class="text-light fs-5"><i class="ri-instagram-line"></i></a>
+                        <a href="https://www.linkedin.com/" class="text-light fs-5"><i class="ri-linkedin-fill"></i></a>
                     </div>
                 </div>
                 
@@ -616,7 +616,7 @@ $pageTitle = "T BUS - Ethiopia's Leading Online Bus Booking Platform | Book Bus 
                     <h6 class="fw-bold mb-4">Support</h6>
                     <ul class="list-unstyled">
                         <li class="mb-2"><a href="tel:+251911223344" class="text-light text-decoration-none">
-                            <i class="ri-phone-line me-2"></i>+251 911 223344
+                            <i class="ri-phone-line me-2"></i>+251 931 016221
                         </a></li>
                         <li class="mb-2"><a href="mailto:support@tbus.et" class="text-light text-decoration-none">
                             <i class="ri-mail-line me-2"></i>support@tbus.et
@@ -643,7 +643,7 @@ $pageTitle = "T BUS - Ethiopia's Leading Online Bus Booking Platform | Book Bus 
             
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <p class="mb-0 text-light small">&copy; 2024 T BUS. All rights reserved.</p>
+                    <p class="mb-0 text-light small">&copy; 2025 T BUS. All rights reserved.</p>
                 </div>
                 <div class="col-md-6 text-md-end">
                     <div class="d-flex gap-4 justify-content-md-end">
