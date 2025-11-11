@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: tinsu-t-bus-ethiopia
+    env: php
+    buildCommand: "composer install --no-dev --optimize-autoloader"
+    startCommand: "php -S 0.0.0.0:\$PORT -t public"
+    envVars:
+      - key: APP_ENV
+        value: production
