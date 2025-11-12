@@ -115,13 +115,13 @@ if ($_POST) {
                         <i class="fas fa-sign-in-alt"></i> Sign In
                     </button>
                     
-                    <div class="text-center">
+                  <!--  <div class="text-center">
                         <small class="text-muted">
                             <strong>Demo Credentials Pre-filled</strong><br>
                             Super Admin: superadmin@tbus.et / admin123<br>
                             <a href="../partners/login.php" class="text-decoration-none">Partner Login</a>
                         </small>
-                    </div>
+                    </div>-->
                 </form>
             </div>
         </div>
