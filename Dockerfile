@@ -1,11 +1,13 @@
 # Use an official PHP + Apache image
 FROM php:8.2-apache
 
-# Install mysqli and PDO extensions for MySQL support
+# Install mysqli and PDO extensions
 RUN docker-php-ext-install mysqli pdo pdo_mysql
 
-# Copy the contents of your public folder into Apache's web root
-COPY public/ /var/www/html/
+# Copy everything (so includes/ is available)
+COPY . /var/www/
 
-# Expose port 80 for web traffic
+# Move the public folder into Apache's web root
+RUN rm -rf /var/www/html && ln -s /var/www/public /var/www/html
+
 EXPOSE 80
