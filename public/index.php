@@ -149,10 +149,8 @@ $pageTitle = "T BUS - Ethiopia's Leading Online Bus Booking Platform | Book Bus 
                 </ul>
                 
                 <div class="d-flex align-items-center">
-                    <a href="../admin/login.php" class="btn btn-outline-primary me-2">
-                        <i class="ri-user-line me-1"></i>Partner Login
-                    </a>
-                    <a href="tel:+251911223344" class="btn btn-primary">
+                    
+                    <a href="tel:+251931016221" class="btn btn-primary">
                         <i class="ri-phone-line me-1"></i>Support
                     </a>
                 </div>
@@ -316,6 +314,13 @@ $pageTitle = "T BUS - Ethiopia's Leading Online Bus Booking Platform | Book Bus 
                                                 <option value="3">3 Passengers</option>
                                                 <option value="4">4 Passengers</option>
                                                 <option value="5">5 Passengers</option>
+                                                <option value="6">6 Passengers</option>
+                                                <option value="7">7 Passengers</option>
+                                                <option value="8">8 Passengers</option>
+
+                                                <option value="9">9 Passengers</option>
+
+                                                <option value="10">10 Passengers</option>
                                             </select>
                                         </div>
                                     </div>
